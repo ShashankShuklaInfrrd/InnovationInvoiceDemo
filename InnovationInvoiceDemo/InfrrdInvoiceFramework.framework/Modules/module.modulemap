@@ -1,0 +1,6 @@
+framework module InfrrdInvoiceFramework {
+  umbrella header "InfrrdInvoiceFramework.h"
+
+  export *
+  module * { export * }
+}

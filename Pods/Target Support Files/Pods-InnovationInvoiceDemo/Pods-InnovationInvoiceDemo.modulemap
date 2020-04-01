@@ -1,0 +1,6 @@
+framework module Pods_InnovationInvoiceDemo {
+  umbrella header "Pods-InnovationInvoiceDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
